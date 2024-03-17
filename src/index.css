@@ -15,12 +15,12 @@ body {
   height: 100%;
   background: #000;
   border-color: #3b3b3b;
-  user-select: none;
+  /* user-select: none; */
 }
 
-canvas {
+/* canvas {
   touch-action: none;
-}
+} */
 
 .screen-max-width {
   margin-inline-start: auto;
